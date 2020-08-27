@@ -9,6 +9,8 @@
 
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336971)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
 ## &#x1f4c8; GitHub Stats
