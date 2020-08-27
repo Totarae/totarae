@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
