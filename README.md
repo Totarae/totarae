@@ -4,6 +4,8 @@
 
 ## 🌱 I’m currently learning
 
+## &#x1f4c8; GitHub Stats
+
 ## 📫 How to reach me:
 
 <!--
