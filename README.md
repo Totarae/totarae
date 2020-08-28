@@ -15,7 +15,7 @@ My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 
@@ -30,6 +30,8 @@ My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
 </a>
 
 ## 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
 **Totarae/totarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
