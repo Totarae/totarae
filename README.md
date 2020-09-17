@@ -24,7 +24,7 @@ My name is Gregory Ivanov and I'm a Backend developer.
 ## 🌱 I’m currently learning
 
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
 
 ## &#x1f4c8; GitHub Stats
 
