@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
+My name is Gregory Ivanov and I'm a Backend developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000)
@@ -24,6 +24,7 @@ My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
 ## 🌱 I’m currently learning
 
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -37,6 +38,7 @@ My name is Gregory Ivanov and I'm a Backend developer/DevOps engineer.
 
 <!--
 **Totarae/totarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://simpleicons.org/ - icons
 
 Here are some ideas to get you started:
 
