@@ -17,7 +17,8 @@ My name is Gregory Ivanov and I'm a Backend developer.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
-![](https://img.shields.io/badge/Tools-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+
+![](https://img.shields.io/badge/Tools-Amazon-AWS-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 
