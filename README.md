@@ -25,7 +25,7 @@ My name is Gregory Ivanov and I'm a Backend developer.
 
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
 
 ## &#x1f4c8; GitHub Stats
 
