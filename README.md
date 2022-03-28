@@ -30,12 +30,12 @@ My name is Gregory Ivanov and I'm a Backend developer.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Totarae/Totarae">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Totarae&hide=css,html,PLSQL,Freemarker,XSLT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Totarae&hide=css,html,PLSQL,Freemarker,XSLT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 </a>
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/gregivanov-777a22a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&langs_count=10" />
+<a href="https://www.linkedin.com/in/gregivanov-777a22a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
 **Totarae/totarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
