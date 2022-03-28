@@ -35,7 +35,7 @@ My name is Gregory Ivanov and I'm a Backend developer.
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/gregivanov-777a22a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gregivanov-777a22a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&langs_count=10" />
 
 <!--
 **Totarae/totarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
